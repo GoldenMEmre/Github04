@@ -27,5 +27,6 @@ public class G02 {
         System.out.println("HEAD");
         System.out.println("Master");
         System.out.println("HEAD 2");
+        System.out.println("Master");
     }
 }
