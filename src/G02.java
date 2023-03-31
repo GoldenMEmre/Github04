@@ -1,5 +1,9 @@
 public class G02 {
 
+    public static void main(String[] args) {
+
+
+
     /*
     Git-Github'da projelerimizin üzerinde çalışırken temelde 3 adımda işlem yapıyoruz
 
@@ -22,4 +26,5 @@ public class G02 {
         System.out.println("İşlem ekleyelim");
         System.out.println("HEAD");
         System.out.println("Master");
+    }
 }
